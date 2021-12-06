@@ -1,0 +1,34 @@
+body{
+    background-color: peru;
+}
+
+.overall{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+h1{
+    margin: 30px;
+    font-family: cursive;
+    font-size: 4rem;
+    color: lawngreen;
+}
+
+p{
+    font-size: 2rem;
+    color: lawngreen;
+    font-family: cursive;
+}
+
+footer{
+    font-family: cursive;
+    color: lawngreen;
+    text-align: center;
+    font-style: italic;
+}
